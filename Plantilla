@@ -1,0 +1,42 @@
+/******************************************************************************
+ * Nombre:      Juan Diego Ariza Lopez                                        *
+ * Materia:     Introduccion a Sistemas Distribuidos                          *
+ * Profesor:    John Corredor, Ph.D.                                          *
+ * Universidad: Pontificia Universidad Javeriana                              *
+ * Fecha:       /2026                                                         *
+ * Tema:                                                                      *
+ * Descripción:                                                               *
+ *                                                                            *  
+ *                                                                            *
+ *                                                                            *
+ *****************************************************************************/
+
+
+/******************************************************************************
+ * Nombres:      Juan Diego Ariza Lopez                                       *
+ *                                                                            *
+ * Materia:     Introduccion a Sistemas Distribuidos                          *
+ * Profesor:    John Corredor, Ph.D.                                          *
+ * Universidad: Pontificia Universidad Javeriana                              *
+ * Fecha:       /2026                                                         *
+ * Tema:                                                                      *
+ * Descripción:                                                               *
+ *                                                                            *  
+ *                                                                            *
+ *                                                                            *
+ *****************************************************************************/
+
+/******************************************************************************
+ * Nombres:     Diego Alejandro Mendoza Cruz
+ *              Juan Diego Ariza Lopez
+ * Materia:     Sistemas Operativos
+ * Profesor:    John Corredor, Ph.D.
+ * Universidad: Pontificia Universidad Javeriana
+ * Fecha:       Noviembre/2025
+ * Tema:        Proyecto 2025-30: Sistema de Reservas de Parque
+ * Taller:      Simulación de Sistema de Reservas
+ * Descripción: Servidor que gestiona las reservas del parque mediante
+ *              procesos, hilos (pthread) y comunicación por named pipes.
+ *              Controla el aforo máximo por hora y simula el paso del
+ *              tiempo para autorizar entradas y salidas de familias.
+ *****************************************************************************/
