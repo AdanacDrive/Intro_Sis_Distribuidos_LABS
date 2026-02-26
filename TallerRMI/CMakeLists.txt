@@ -4,7 +4,7 @@
 # Genera dos ejecutables independientes: servidor y cliente.
 # Ambos se enlazan contra las librerías gRPC y Protobuf del sistema.
 #
-# Autores: Juan, Diego Alejandro Mendoza Cruz
+# Autores: Juan Diego Ariza, Nicolas Leon
 # Curso: Introducción a Sistemas Distribuidos
 # Universidad: Pontificia Universidad Javeriana
 # Fecha: Febrero 2026
