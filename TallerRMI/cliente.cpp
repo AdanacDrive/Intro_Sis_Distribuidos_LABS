@@ -9,7 +9,7 @@
  * Para conectarse a un servidor remoto, modificar la variable target_str
  * en main() con la IP y puerto del servidor (ej: "192.168.1.5:50051").
  *
- * Autores: Juan, Diego Alejandro Mendoza Cruz
+ * Autores: Juan Diego Ariza, Nicolas Leon
  * Curso: Introducción a Sistemas Distribuidos
  * Universidad: Pontificia Universidad Javeriana
  * Fecha: Febrero 2026
