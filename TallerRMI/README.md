@@ -3,7 +3,7 @@
 **Curso:** Introducción a Sistemas Distribuidos  
 **Universidad:** Pontificia Universidad Javeriana  
 **Fecha:** Febrero 2026  
-**Autores:** Juan, Diego Alejandro Mendoza Cruz
+**Autores:** Juan Diego Ariza, Nicolas Leon
 
 ---
 
