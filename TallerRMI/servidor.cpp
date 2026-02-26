@@ -11,7 +11,7 @@
  * 
  * Formato de libros.txt: isbn,titulo,cantidad_total,cantidad_prestada
  * 
- * Autores: Juan, Diego Alejandro Mendoza Cruz
+ * Autores: Juan Diego Ariza, Nicolas Leon
  * Curso: Introducción a Sistemas Distribuidos
  * Universidad: Pontificia Universidad Javeriana
  * Fecha: Febrero 2026
