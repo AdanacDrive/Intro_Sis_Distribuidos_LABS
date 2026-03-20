@@ -1,0 +1,27 @@
+# ==============================================================================================
+# = Pontificia Universidad Javeriana =
+#
+# Autores:         Juan Diego Ariza, Nicolas Leon, Juan Diego Pardo, Juan Sebastian Urbano
+# Curso:           Sistemas Distribuidos - 2026-10
+# Fecha:           Marzo 2026
+#
+# Archivo:         filehost
+# Descripción:
+#   Archivo de hosts para MPI. Define los nodos workers del cluster y cuántos
+#   procesos MPI puede alojar cada uno (slots).
+# 
+#   Uso:
+#     mpirun -hostfile filehost -np <p> ./ejecutable <DimMatriz> <NumHilos>
+#
+#   Donde p = 1 MASTER + N workers. Ejemplo con 3 workers:
+#     mpirun -hostfile filehost -np 4 ./mxmOmpMPIfxt 1024 4
+# ==============================================================================================
+
+# Worker 1 — MIG476
+10.43.100.179    slots=4
+
+# Worker 2 — MIG29
+10.43.98.223     slots=4
+
+# Worker 3 — MIG220
+10.43.99.161     slots=4
