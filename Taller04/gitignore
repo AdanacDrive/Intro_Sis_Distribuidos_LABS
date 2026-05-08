@@ -1,0 +1,46 @@
+# Compilados Java
+*.class
+bin/
+out/
+build/
+target/
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.swp
+*~
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos comprimidos (el enunciado prohibe subir .zip al repo)
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.7z
+
+# Java extras
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# LaTeX (por si alguien edita el informe en el repo)
+*.aux
+*.toc
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
