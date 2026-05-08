@@ -2,18 +2,18 @@
 
 Implementación de un cluster Apache Hadoop HDFS de 4 nodos sobre máquinas virtuales con Ubuntu 22.04 LTS, como parte de la asignatura **Introducción a los Sistemas Distribuidos** de la Pontificia Universidad Javeriana (2026).
 
-## 👥 Integrantes
+##  Integrantes
 
 - Juan Diego Ariza
 - Nicolas Leon
 - Juan Diego Pardo
 - Juan Sebastian Urbano
 
-## 🎯 Objetivo
+##  Objetivo
 
 Construir un cluster HDFS funcional de 4 nodos que demuestre los conceptos fundamentales de los sistemas de ficheros distribuidos: replicación automática de bloques, tolerancia a fallos y transparencia de acceso.
 
-## 🖥️ Arquitectura
+##  Arquitectura
 
 | Hostname | IP | Rol | Daemons |
 |---|---|---|---|
@@ -24,39 +24,16 @@ Construir un cluster HDFS funcional de 4 nodos que demuestre los conceptos funda
 
 **Factor de replicación:** 3 (cada bloque se almacena en los 3 DataNodes)
 
-## 🛠️ Software
+##  Software
 
 - Ubuntu 22.04 LTS
 - OpenJDK 8
 - Apache Hadoop 3.3.6
 - SSH (autenticación por clave pública)
 
-## 📂 Estructura del Repositorio
 
-```
-cluster-hadoop-hdfs/
-├── README.md                  # Este archivo
-├── .gitignore
-├── informe/                   # Informe LaTeX y PDF
-│   ├── main.tex
-│   ├── main.pdf
-│   └── imagenes/              # 21 capturas del proceso
-├── config/                    # Archivos de configuración del cluster
-│   ├── core-site.xml
-│   ├── hdfs-site.xml
-│   ├── mapred-site.xml
-│   ├── yarn-site.xml
-│   ├── workers
-│   └── bashrc.snippet
-└── scripts/                   # Scripts de instalación
-    ├── 01_install_java.sh
-    ├── 02_setup_hosts.sh
-    ├── 03_setup_ssh.sh
-    ├── 04_install_hadoop.sh
-    └── 05_start_cluster.sh
-```
 
-## 🚀 Cómo reproducir el cluster
+##  Cómo reproducir el cluster
 
 ### Pre-requisitos
 
