@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 estado_sistema.json
+*.db-journal
